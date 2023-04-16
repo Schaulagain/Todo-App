@@ -1,0 +1,56 @@
+/API/.phpunit.cache
+/API/node_modules
+/API/public/build
+/API/public/hot
+/API/public/storage
+/API/storage/*.key
+/API/vendor
+/API/.env
+/API/.env.backup
+/API/.env.production
+/API/.phpunit.result.cache
+/API/Homestead.json
+/API/Homestead.yaml
+/API/auth.json
+/API/npm-debug.log
+/API/yarn-error.log
+/API/.fleet
+/API/.idea
+/API/.vscode
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/todo/node_modules
+/todo/.pnp
+/todo/.pnp.js
+
+# testing
+/todo/coverage
+
+# next.js
+/todo/.next/
+/todo/out/
+
+# production
+/todo/build
+
+# misc
+/todo/.DS_Store
+/todo/*.pem
+
+# debug
+/todo/npm-debug.log*
+/todo/yarn-debug.log*
+/todo/yarn-error.log*
+
+# local env files
+/todo/.env*.local
+
+# vercel
+/todo/.vercel
+
+# typescript
+/todo/*.tsbuildinfo
+/todo/next-env.d.ts
+
