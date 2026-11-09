@@ -39,3 +39,7 @@ cd todo
 npm install
 BACKEND_URL=http://127.0.0.1:8000 npm run dev       # http://localhost:3000
 ```
+
+## How this was built
+
+I wrote the original version myself in 2023. In 2026, AI coding agents (mainly **Claude**, in Claude Code) cleaned it up and wrote this README, and I reviewed their changes.
